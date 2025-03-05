@@ -93,7 +93,7 @@ img.imgLV{
     max-width:50%;
 }
 
-nav {
+#nav {
     position: fixed;
     top: 0;
     left: 0;
@@ -103,7 +103,7 @@ nav {
 }
 
 @media screen and (max-width: 1000px) {
-    nav {    
+    #nav {    
         position: static;
         top: auto;
         left: auto;

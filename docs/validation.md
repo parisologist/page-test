@@ -1,16 +1,16 @@
 # Validation Configuration
 {:.no_toc}
 
-<nav>
+<div id="nav">
 
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-</nav>
+</div>
 
 ## Intro
 
-<hr/>
+1
 
 In a basic spring application, validation can be accomplished purely with
 annotations - `@Validation` annotations on fields define the acceptable values,
