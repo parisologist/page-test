@@ -499,7 +499,7 @@
 3. Doubt + helplessness paralyze life, and so man tries to escape from freedom.
 4. He is driven into a new bondage - it cannot replace primary ties, but it can help him to lose his self to escape his aloneness.
 
-![](../assets/images/escapeFromFreedom10.gif){:.imgL}
+![](../assets/images/escapeFromFreedom10.gif){:.imgLV}
 
 - Is there a path for positive freedom? Where man is not isolated but unified with the world, other men, and nature?
 - It requires a realization of man's total personality: active expression of emotional and intellectual potentials.

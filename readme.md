@@ -1,7 +1,4 @@
-% Demo of Github Pages
-
-
-# README
+# Demo of Github Pages Feature
 
 
 - [Validation Process](docs/validation.html) - The validation process used in viaffinity

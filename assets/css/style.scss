@@ -71,13 +71,28 @@ blockquote {
 
 img.imgR{
     float:right;
+    margin:15px;
+    max-width:65%;
+}
+
+img.imgRV{
+    float:right;
+    margin:15px;
     max-width:50%;
 }
 
 img.imgL{
     float:left;
+    margin:15px;
+    max-width:65%;
+}
+
+img.imgLV{
+    float:left;
+    margin:15px;
     max-width:50%;
 }
+
 
 /*
 table {

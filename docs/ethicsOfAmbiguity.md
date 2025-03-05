@@ -5,7 +5,7 @@
 
 ##  Chapter 1 - Ambiguity + Freedom
 
-![](../assets/images/ethicsOfAmbiguity01.jpg){:.imgR}
+![](../assets/images/ethicsOfAmbiguity01.jpg){:.imgRV}
 
 - Fundamental Ambiguity: We are both a being and a consciousness.
     - Most philosophers have tried to _mask_ this ambiguity by turning mind into matter and vice versa.
@@ -227,7 +227,7 @@
 
 ### Artist and Writer
 
-![](../assets/images/ethicsOfAmbiguity06.jpg){:.imgL}
+![](../assets/images/ethicsOfAmbiguity06.jpg){:.imgLV}
 
 
 - Also attempt to realize the existence as an absolute
@@ -285,7 +285,7 @@
     - "What right have we outsiders to destroy his peace?" asks the conservative
 - If I want his liberation it is because abstention = complicity = tyranny; and I don't want to be a tyrant, and so that new possibilities will be opened to him, to all men.
 
-![](../assets/images/ethicsOfAmbiguity07.jpg){:.imgR}
+![](../assets/images/ethicsOfAmbiguity07.jpg){:.imgRV}
 
 - While the cause of freedom is a cause for all, the urgency of freedom is not the same for all.
 - The proletariat is no more naturally moral than another.
