@@ -93,7 +93,7 @@ img.imgLV{
     max-width:50%;
 }
 
-ul#markdown-toc {
+#nav {
     position: fixed;
     top: 0;
     left: 0;
