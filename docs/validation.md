@@ -1,12 +1,8 @@
 # Validation Configuration
 {:.no_toc}
 
-<div id="nav">
-
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
-
-</div>
 
 ## Intro
 
