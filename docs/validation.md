@@ -6,7 +6,7 @@
 
 ## Intro
 
-1
+2
 
 In a basic spring application, validation can be accomplished purely with
 annotations - `@Validation` annotations on fields define the acceptable values,
