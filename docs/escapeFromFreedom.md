@@ -1,11 +1,10 @@
-[Home](../index.html)>[Philosophy](index.html)
-
 #  Escape From Freedom 
 
+[Home](../index.html)
 
 ##  Chapter 1 - Freedom: A Psychological Problem 
 
-![](../assets/images/escapeFromFreedom01.jpg)
+![](../assets/images/escapeFromFreedom01.jpg){:.imgR}
 
 - Freud was first to direct attention to the irrational aspects which determine behavior.
 - The Basic Mechanism: Man is fundamentally anti-social (because of unconscious drives.
@@ -32,7 +31,7 @@
 
 ###  Medieval Background 
 
-![](../assets/images/escapeFromFreedom02.jpg)
+![](../assets/images/escapeFromFreedom02.jpg){:.imgL}
 
 - Lack of individual freedom: social class + trades were essentially fixed.
     - This structure gave security: social order was a natural order - one's position was guaranteed.
@@ -76,7 +75,7 @@
 
 ###  Period of the Reformation
 
-![](../assets/images/escapeFromFreedom03.jpg)
+![](../assets/images/escapeFromFreedom03.jpg){:.imgR}
 
 - Protestantism + Calvinism emerged, to give expression to this new freedom while offering an escape from its burden.
 - 2 Key differences between catholic + new theocracy:
@@ -135,7 +134,7 @@
 
 #### Anxiety and Work
 
-![](../assets/images/escapeFromFreedom04.jpg)
+![](../assets/images/escapeFromFreedom04.jpg){:.imgL}
 
 - Calvin also stressed necessity of unceasing effort to live according to god's plan
     - The protestant "work ethic"
@@ -186,7 +185,7 @@
 
 ##  Chapter 4 - Two Aspects of Freedom for Modern Man 
 
-![](../assets/images/escapeFromFreedom05.jpg)
+![](../assets/images/escapeFromFreedom05.jpg){:.imgR}
 
 - Analysis of the beginnings of capitalism focused on two aspects of freedom
     - Individual gained freedom from traditional bonds of medieval society
@@ -271,7 +270,7 @@
 
 ###  Authoritarianism
 
-![](../assets/images/escapeFromFreedom06.jpg)
+![](../assets/images/escapeFromFreedom06.jpg){:.imgL}
 
 - Striving for domination and submission are both attempts to escape from an unbearable aloneness.
 
@@ -366,7 +365,7 @@
 - Neurosis an unsuccessful attempt to reconcile conflict between freedom and dependency.
 
 ###  Destructiveness
-![](../assets/images/escapeFromFreedom07.gif)
+![](../assets/images/escapeFromFreedom07.gif){:.imgR}
 
 - Destructiveness is the outcome of unlived life
     - Conditions which suppress life produce passion for destruction
@@ -405,7 +404,7 @@
     - Sense of being a nobody, an outcast
     - Old middle class beset with feelings of powerlessness, anxiety, and isolation from the social whole.
 - Also economic reasons for rise of Nazism: Junkers and privileged groups gave Hitler support; expected to be able to run things and have counterbalance to real socialist groups.
-![](../assets/images/escapeFromFreedom08.jpg)
+![](../assets/images/escapeFromFreedom08.jpg){:.imgL}
 - Nazism never had any real political or economic principle
 - Decline of middle class + rising power of monopolistic capital had deep psychological effect.
     - These effects were increased and systematized by a political ideology which turned it in a direction opposite of interest of class.
@@ -435,7 +434,7 @@
 
 ###  How Culture Fosters Automaton Conformity
 
-![](../assets/images/escapeFromFreedom09.jpg)
+![](../assets/images/escapeFromFreedom09.jpg){:.imgR}
 
 1. **Suppression of spontaneous feelings**
     - Begins with training of child + feelings of hostility and dislike
@@ -500,7 +499,7 @@
 3. Doubt + helplessness paralyze life, and so man tries to escape from freedom.
 4. He is driven into a new bondage - it cannot replace primary ties, but it can help him to lose his self to escape his aloneness.
 
-![](../assets/images/escapeFromFreedom10.gif)
+![](../assets/images/escapeFromFreedom10.gif){:.imgL}
 
 - Is there a path for positive freedom? Where man is not isolated but unified with the world, other men, and nature?
 - It requires a realization of man's total personality: active expression of emotional and intellectual potentials.

@@ -1,10 +1,11 @@
-% XPath XPertise
+# XPath XPertise
 
-[Home](../../index.html)>[Hacking](../index.html)>[XML](index.html)
+[Home](../index.html)
 
 
 ##  Find missing associations 
-![](../assets/images)
+
+![](../assets/images/xpath1.jpg){:.imgR}
 
 To find locations without an associated building:
 
@@ -49,7 +50,7 @@ Find Homes that have neither a bedroom nor a bathroom
 
 ##  Find if any entities in an aggregate vary from one another 
 
-![](../assets/images)
+![](../assets/images/xpath2.gif){:.imgL}
 
 In other words, find if a certain attribute is the same in every member of a collection, or if there is one which is different somehow.
 

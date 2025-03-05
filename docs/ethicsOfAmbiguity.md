@@ -1,7 +1,6 @@
-% The Ethics of Ambiguity
+# The Ethics of Ambiguity 
 
-[Home](../index.html)>[Philosophy](index.html)
-
+[Home](../index.html)
 
 
 ##  Chapter 1 - Ambiguity + Freedom
@@ -62,7 +61,7 @@
 
 ### The Child
 
-![](../assets/images/ethicsOfAmbiguity02.gif)
+![](../assets/images/ethicsOfAmbiguity02.gif){:.imgL}
 
 - His situation is characterized by finding himself in a universe which he has not established and which appears as an absolute to which he can only submit.
 - Human inventions, words, customs, values are given facts, as inevitable as the sky.
@@ -107,7 +106,7 @@
 - The lowest kind of man is the one who is lacking in this living warmth.
     - He occupies himself in restraining the original movement of casting oneself into the world.
     - He fears the failure of passion to reach being.
-![](../assets/images/ethicsOfAmbiguity03.gif)
+![](../assets/images/ethicsOfAmbiguity03.gif){:.imgR}
 - His choice confirms itself - he discovers only an insignificant and dull world.
 - His every action is a flight - he flees from engagement as he does from disengagement.
 - He takes refuge in the ready-made values of that serious world
@@ -147,7 +146,7 @@
 
 > "No appeal arises from the abandoned zones where nothing can be reveled because nothing has been sown."
 
-![](../assets/images/ethicsOfAmbiguity04.gif)
+![](../assets/images/ethicsOfAmbiguity04.gif){:.imgL}
 - This is why the serious man's life loses all meaning if he is cut off from his ends:
     - He becomes a sub-man, a "has-been".
 - The serious man feels dependence upon his object in a state of fear.
@@ -194,7 +193,7 @@
 
 ### The Passionate Man
 
-![](../assets/images/ethicsOfAmbiguity05.jpg)
+![](../assets/images/ethicsOfAmbiguity05.jpg){:.imgR}
 
 - He sets up his object as absolute - but not like the serious man, as a thing detached from himself
     - He **asserts** subjectivity of his involvement.
@@ -228,7 +227,7 @@
 
 ### Artist and Writer
 
-![](../assets/images/ethicsOfAmbiguity06.jpg)
+![](../assets/images/ethicsOfAmbiguity06.jpg){:.imgL}
 
 
 - Also attempt to realize the existence as an absolute
@@ -286,7 +285,7 @@
     - "What right have we outsiders to destroy his peace?" asks the conservative
 - If I want his liberation it is because abstention = complicity = tyranny; and I don't want to be a tyrant, and so that new possibilities will be opened to him, to all men.
 
-![](../assets/images/ethicsOfAmbiguity07.jpg)
+![](../assets/images/ethicsOfAmbiguity07.jpg){:.imgR}
 
 - While the cause of freedom is a cause for all, the urgency of freedom is not the same for all.
 - The proletariat is no more naturally moral than another.
@@ -339,7 +338,7 @@
 
 ### Rationalistic  Optimism
 
-![](../assets/images/ethicsOfAmbiguity08.gif)
+![](../assets/images/ethicsOfAmbiguity08.gif){:.imgL}
 
 - Hegelian: The substance of life is outside the finite individual and in the infinity of the class or the socialist state.
 - A sacrifice is no longer a sacrifice because  an individual is nothing unless he is part of the infinite.
@@ -381,7 +380,7 @@
 
 ### The present and the future
 
-![](../assets/images/ethicsOfAmbiguity09.jpg)
+![](../assets/images/ethicsOfAmbiguity09.jpg){:.imgR}
 - There are two meanings to the word "future"
     - These two meanings correspond to the two aspects of man's ambiguous condition: being and existence.
 - **Existence** - The definite direction of a particular transcendence - the movement which will fulfill my projects.
@@ -421,7 +420,7 @@
     - If one doesn't want all life to be defined as an escape towards nothingness.
 - This is the reason for festivals - they stop the movement of transcendence and  set up the end as an end
 
-![](../assets/images/ethicsOfAmbiguity10.jpg)
+![](../assets/images/ethicsOfAmbiguity10.jpg){:.imgL}
 
 - The festival confirms existence positively as existence.
     - This is why it is characterized by destruction:
@@ -505,7 +504,7 @@
 
 ## Conclusion
 
-![](../assets/images/ethicsOfAmbiguity11.jpg)
+![](../assets/images/ethicsOfAmbiguity11.jpg){:.imgR}
 
 - This ethics is individualistic
     - in that it accords the individual an absolute value

@@ -1,6 +1,6 @@
-% Bash Notes
+# Bash Notes
 
-[Home](../index.html)>[Hacking](index.html)
+[Home](../index.html)
 
 ## Basics
 
@@ -15,7 +15,7 @@
 
 ### Keyboard Combos
 
-![](../assets/images/linux1.jpg)
+![](../assets/images/linux1.jpg){:.imgR}
 
 - **CTRL-D** - used to end input
 - **CTRL-(Backslash)** - Stop current command, if ctrl-c doesn't work
@@ -88,7 +88,7 @@
 
 ### Types of commands
 
-![](../assets/images/bash2.gif)
+![](../assets/images/bash2.gif){:.imgL}
 
 - **Alias** - String which is replaced with another string before being executed.
     - Only work in interactive shells, not scripts.
@@ -138,7 +138,7 @@
 
 ### login scripts
 
-![](../assets/images/bash3.gif)
+![](../assets/images/bash3.gif){:.imgR}
 
 - `source` - allows you to reload bashrc or bash_profile
     - `.` is a synonym for source.

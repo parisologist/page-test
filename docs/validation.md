@@ -1,6 +1,3 @@
-% Validation Configuration
-
-
 # Validation Configuration
 
 ## Intro
