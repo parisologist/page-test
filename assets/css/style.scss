@@ -61,9 +61,11 @@ blockquote {
     color: #555;
 }
 
-img{
+.imgR{
     float:right;
     max-width:50%;
+    border: 4px double #4a4a4a; 
+    border-radius: 10px;
 }
 
 /*

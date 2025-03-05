@@ -6,7 +6,7 @@
 
 ##  Chapter 1 - Ambiguity + Freedom
 
-![](../assets/images/ethicsOfAmbiguity01.jpg)
+![](../assets/images/ethicsOfAmbiguity01.jpg){:.imgR}
 
 - Fundamental Ambiguity: We are both a being and a consciousness.
     - Most philosophers have tried to _mask_ this ambiguity by turning mind into matter and vice versa.
