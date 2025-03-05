@@ -93,6 +93,25 @@ img.imgLV{
     max-width:50%;
 }
 
+#markdown-toc {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100%;
+    overflow-y: auto;
+}
+
+@media screen and (max-width: 1000px) {
+    #markdown-toc {    
+        position: static;
+        top: auto;
+        left: auto;
+        width: auto;
+        height: auto%;
+    }
+}
+
 
 /*
 table {
