@@ -61,34 +61,35 @@ blockquote {
     color: #555;
 }
 
-img{
+.markdown-body img{
     border: 4px double #4a4a4a; 
     border-radius: 10px;
-    margin:2em;
-}
+    margin:10px;
+    max-width: 80%;
 
-.markdown-body img{
-    max-width:80%;
-    margin:2em;
 }
 
 img.imgR{
     float:right;
+    margin:15px;
     max-width:65%;
 }
 
 img.imgRV{
     float:right;
+    margin:15px;
     max-width:50%;
 }
 
 img.imgL{
     float:left;
+    margin:15px;
     max-width:65%;
 }
 
 img.imgLV{
     float:left;
+    margin:15px;
     max-width:50%;
 }
 

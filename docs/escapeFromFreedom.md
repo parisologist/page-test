@@ -1,7 +1,4 @@
 #  Escape From Freedom 
-{:.no_toc}
-
-{:toc}
 
 ##  Chapter 1 - Freedom: A Psychological Problem 
 
