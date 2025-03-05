@@ -15,7 +15,7 @@
 
 ### Keyboard Combos
 
-<img src="img/linux1.jpg" class="wikiImage"/>
+![](../assets/images/linux1.jpg)
 
 - **CTRL-D** - used to end input
 - **CTRL-(Backslash)** - Stop current command, if ctrl-c doesn't work
@@ -88,7 +88,7 @@
 
 ### Types of commands
 
-<img src="img/bash2.gif" class="wikiImage"/>
+![](../assets/images/bash2.gif)
 
 - **Alias** - String which is replaced with another string before being executed.
     - Only work in interactive shells, not scripts.
@@ -138,7 +138,7 @@
 
 ### login scripts
 
-<img src="img/bash3.gif" class="wikiImage" width="400px"/>
+![](../assets/images/bash3.gif)
 
 - `source` - allows you to reload bashrc or bash_profile
     - `.` is a synonym for source.

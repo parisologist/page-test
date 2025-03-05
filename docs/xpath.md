@@ -4,7 +4,7 @@
 
 
 ##  Find missing associations 
-<img class="wikiImage" src="img/xpath1.jpg"/>
+![](../assets/images)
 
 To find locations without an associated building:
 
@@ -49,7 +49,7 @@ Find Homes that have neither a bedroom nor a bathroom
 
 ##  Find if any entities in an aggregate vary from one another 
 
-<img class="wikiImage" src="img/xpath2.gif"/>
+![](../assets/images)
 
 In other words, find if a certain attribute is the same in every member of a collection, or if there is one which is different somehow.
 
