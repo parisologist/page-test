@@ -10,6 +10,8 @@
 
 ## Intro
 
+<hr/>
+
 In a basic spring application, validation can be accomplished purely with
 annotations - `@Validation` annotations on fields define the acceptable values,
 `@Valid` on the intake of an object will trigger the running of validations.
